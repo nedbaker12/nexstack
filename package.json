@@ -1,6 +1,6 @@
 {
-  "name": "nexstack",
-  "version": "1.9.9",
+  "name": "widlsstack",
+  "version": "2.9.9",
   "description": "Nexstack Nodejs library that provides an Api for obtaining the movies information website.",
   "main": "dist/index.js",
   "scripts": {
